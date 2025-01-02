@@ -30,3 +30,11 @@ document.getElementById('toggleItem3').addEventListener('click', function() {
 document.getElementById('toggleItem4').addEventListener('click', function() {
     toggleDescription('description4');
 });
+
+document.getElementById('toggleItem5').addEventListener('click', function() {
+    toggleDescription('description5');
+});
+document.getElementById('toggleItem6').addEventListener('click', function() {
+    toggleDescription('description6');
+});
+
