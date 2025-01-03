@@ -293,4 +293,30 @@ span{
         width: 120px;
         
     }
+    nav {
+        
+        align-items: center;
+        justify-items: center;
+        
+    }
+    nav ul li{
+            margin-top: 50px;
+            margin-right: 55px;
+        
+    }
+    nav ul li{
+        background-color: #323333af;
+        
+        
+    }
+    .apresentacao1 {
+        
+        max-height: 55vh; /* Limita a altura máxima ao viewport */
+        overflow-y: auto;
+        overflow-x: hidden;
+        width: 320px;
+        text-align: center;
+    
+    }
+    
 }
