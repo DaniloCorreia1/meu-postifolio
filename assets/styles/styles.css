@@ -338,5 +338,8 @@ span{
         align-items: center;
         justify-items: center;
     }
-    
+    h5 {
+
+        font-size: 8px;
+    }
 }
