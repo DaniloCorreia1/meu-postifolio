@@ -337,10 +337,9 @@ span{
     .ap2{
         align-items: center;
         justify-items: center;
-        margin-left:30px:
+        margin-left:30px;
     }
     h5 {
-
         font-size: 8px;
     }
 }
