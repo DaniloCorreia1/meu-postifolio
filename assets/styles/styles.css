@@ -229,7 +229,7 @@ span{
     flex-direction: column; /* Coloca elementos em coluna */
     align-items: center; /* Centraliza na horizontal */
     justify-content: flex-start; /* Alinha o conteúdo no topo */
-    margin-top: 60px;
+    margin-top: 50px;
 }
 .apresentacao {
     
@@ -239,7 +239,7 @@ span{
 .apresentacao1 {
     padding: 20px; 
     width: 70%; 
-    margin: 20px;
+    margin: 10px;
     color: aliceblue; 
     text-align: justify; 
     font-family: 'Arial', sans-serif;
@@ -346,7 +346,7 @@ span{
         align-items: center;
         justify-items: center;
         margin-left:30px;
-        margin-top: 25px;
+        margin-top: 15px;
     }
     h5 {
         font-size: 8px;
