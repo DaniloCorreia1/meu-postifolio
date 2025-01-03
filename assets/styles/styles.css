@@ -289,26 +289,17 @@ span{
         max-width: 90%;
         margin: auto;
     }
-    .footer {
-        display: flex;
-        position: fixed;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background-color: #f0f0f0; 
-        width: 100%; 
-        height: 105px; 
-        align-items: center; 
-        padding: 0 10px;  
-        
-    }
+   
     .whatsappicon{
         margin-left: 40%;
     
     }
     .whatsappicon img{
-        max-width: 100%
+        max-width: 80%;
     
+    }
+    span{
+        font-size: 10px;
     }
     .box-left img {
     
@@ -322,12 +313,7 @@ span{
         
         
     }
-    nav ul {
-            
-            
-            
-        
-    }
+    
     nav ul li{
         background-color: #323333af;
         margin-right: 55px;
