@@ -318,7 +318,8 @@ span{
     }
     
     nav ul li{
-        background-color: #323333af;
+        background-color: #686969af;
+        margin-right: 55px;
         font-size: 5px;
         
     }
